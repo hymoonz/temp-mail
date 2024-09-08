@@ -56,7 +56,7 @@ const GetEmail  = () => {
           method: 'POST',
           headers: {
               'content-type': 'application/json',
-              'X-RapidAPI-Key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
+              'X-RapidAPI-Key': ''e277a0d64cmsh5e7d79f48fc22f0p1b2e2cjsnf1fa18b168dc,
               'X-RapidAPI-Host': 'temp-mail44.p.rapidapi.com'
           },
           // body: '{"key1":"value","key2":"value"}'
